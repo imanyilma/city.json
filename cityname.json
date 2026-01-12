@@ -1539,4 +1539,28 @@
         
         },
         
-      
+        {
+            "name":"Abi Adi",
+            "region":"Tigray",
+            "lang":"en"
+    
+        },
+        {
+            "name":"አቢ አዲ",
+            "region":"ትግራይ",
+            "lang":"am"
+        
+        },
+        
+        {
+            "name":"Leku",
+            "region":"sida",
+            "lang":"en"
+    
+        },
+        {
+            "name":"ለኩ",
+            "region":"አማራ",
+            "lang":"am"
+        }
+
